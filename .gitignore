@@ -2,6 +2,7 @@
 !.gitignore
 !README.md
 !AR_Final_Project.ipynb
+!AR_Final_Project.pdf
 !data_merged.parquet
 !data/
 !data/F-F_Research_Data_Factors_daily.csv
