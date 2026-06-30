@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!AR_Final_Project.ipynb
+!data_merged.parquet
+!data/
+!data/F-F_Research_Data_Factors_daily.csv
+!data/sp_500_historical_components.csv
